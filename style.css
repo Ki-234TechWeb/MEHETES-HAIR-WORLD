@@ -301,7 +301,9 @@ max-width: 400px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(/hair-img/bg-sale.jpg);
+    background-image: url(
+/
+mehetes/hair-img/bg-sale.jpg);
     background-attachment: fixed;
     background-blend-mode: multiply;
 padding-bottom: 40px;
@@ -578,7 +580,9 @@ padding: 70px 0;
 .testi{
     max-width: 100%;
 background-color: #ffffff;
-background: url(/hair-img/bg-blog.jpg) 
+background: url(
+/
+mehetes/hair-img/bg-blog.jpg) 
 center/ cover no-repeat;
 overflow: hidden;
 padding-bottom: 40px;
